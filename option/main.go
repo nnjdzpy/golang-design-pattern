@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// See more details from https://www.liwenzhou.com/posts/Go/functional-options-pattern/
 func main() {
 	var opts []Option
 
